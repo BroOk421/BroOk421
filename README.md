@@ -69,6 +69,7 @@ Frontend Developer • Web Designer • UI/UX Enthusiast 🇵🇭
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind" />
+<img src="https://res.cloudinary.com/dxjtgomhb/image/upload/v1780018910/OIP_2_fmgsi5.webp" alt="bubble.io" width="45" height="45" />
 </p>
 
 ---
@@ -92,11 +93,10 @@ Frontend Developer • Web Designer • UI/UX Enthusiast 🇵🇭
 ## 🤖 AI Tools
 
 <p align="left">
-<img src="https://cdn.simpleicons.org/claude" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/claude" alt="claude" width="45" height="45"/>
+  <img src="https://res.cloudinary.com/dxjtgomhb/image/upload/v1780018910/gpt_uc1kjz.jpg" width="45" height="45"/>
 </p>
-<p align="left">
-<img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="45" height="45"/>
-</p>
+
 
 ---
 
