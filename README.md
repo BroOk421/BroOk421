@@ -95,7 +95,7 @@ Frontend Developer • Web Designer • UI/UX Enthusiast 🇵🇭
 <img src="https://cdn.simpleicons.org/claude" width="45" height="45"/>
 </p>
 <p align="left">
-<img src="https://cdn.simpleicons.org/openai" width="45" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="45" height="45"/>
 </p>
 
 ---
