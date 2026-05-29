@@ -94,6 +94,9 @@ Frontend Developer • Web Designer • UI/UX Enthusiast 🇵🇭
 <p align="left">
 <img src="https://cdn.simpleicons.org/claude" width="45" height="45"/>
 </p>
+<p align="left">
+<img src="https://cdn.simpleicons.org/chatgpt" width="45" height="45"/>
+</p>
 
 ---
 
